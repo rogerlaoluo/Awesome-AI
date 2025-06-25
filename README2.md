@@ -24,3 +24,6 @@
 ## AI辅助工具
 - DeepSider是一款集成于浏览器侧边栏的AI对话工具
 网址：https://deepsider.ai/
+
+- AI Base发现最新产品排名  
+https://top.aibase.com/
