@@ -19,3 +19,8 @@
 
 - KushoAI - 智能测试用例生成工具，自动创建测试场景  
 网址：https://kusho.ai/
+
+
+## AI辅助工具
+- DeepSider是一款集成于浏览器侧边栏的AI对话工具
+网址：https://deepsider.ai/
