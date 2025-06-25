@@ -415,12 +415,6 @@
 
 详细解释：[你用 AI 生成的作品，版权归你吗？](https://www.cssmagic.net/blog/wx/59)
 
-### 微信群 <a name="wx-group">&nbsp;</a>
-
-加入群，快人一步获取 AI 资讯、与数百名同好交流：
-
-![qun-qr](https://github.com/cssmagic/blog/assets/1231359/356aedff-723a-4b5d-a776-c9cacdcebec8)
-
 ---
 
 ## License
