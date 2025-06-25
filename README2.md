@@ -3,6 +3,9 @@
 - 网址：https://github.com/phodal/aise?tab=readme-ov-file
 
 ## AI辅助开发
+- AutoDevOps-oups 是一个基于AI的软件开发自动化解决方案
+https://github.com/Huterox/auto-dev-ops-oups
+
 - PR Agent - 自动化代码审查助手，帮助开发者快速处理Pull Request  
 网址：https://github.com/qodo-ai/pr-agent
 
